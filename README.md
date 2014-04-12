@@ -1,6 +1,19 @@
 # clojure-examples
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to provide you with examples of Clojure code right in the repl. Because everything not in the REPL is too far away.
+
+Goal is to complement `(clojure.repl/docs ___)` and `(clojure.repl/source ___)`.
+
+Website with examples is up at: www.clojure-examples.org
+
+Right now there are very few examples. The examples will be pulled from these resources:
+
+- You.
+
+- clojure-docs examples (shameless)
+
+- get-clojure (i.e. #clojure clojurebot chat logs).
+
 
 ## Usage
 
