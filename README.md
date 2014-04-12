@@ -4,7 +4,7 @@ A Clojure library designed to provide you with examples of Clojure code right in
 
 Goal is to complement `(clojure.repl/docs ___)` and `(clojure.repl/source ___)`.
 
-Website with examples is up at: www.clojure-examples.org
+Website with examples is coming soon at: www.clojure-examples.org
 
 Right now there are very few examples. The examples will be pulled from these resources:
 
@@ -13,6 +13,13 @@ Right now there are very few examples. The examples will be pulled from these re
 - clojure-docs examples (shameless)
 
 - get-clojure (i.e. #clojure clojurebot chat logs).
+
+## TODO
+
+- Web hello world
+- Web CRUD
+- lein plugin
+- Github login for web interface
 
 
 ## Usage
